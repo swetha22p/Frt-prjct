@@ -69,11 +69,12 @@ as our solution we made a webpage that where we kept few books and their cloud l
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+-
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+![swetha wrkflow capt](https://user-images.githubusercontent.com/94050914/199312426-c9db1ceb-9b08-4779-be97-2b9335fa1e60.jpg)
+
 
  
 
@@ -84,7 +85,10 @@ as our solution we made a webpage that where we kept few books and their cloud l
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
-![pc cap](https://user-images.githubusercontent.com/110035582/197511434-dfb6eaf9-c80c-4394-999f-176908ee8bd0.png)
+
+![swetha pc cap](https://user-images.githubusercontent.com/94050914/199312535-07a54293-b371-49a5-b572-bbb1940298cc.jpg)
+
+![swetha mob cap](https://user-images.githubusercontent.com/94050914/199312562-9fdc4106-ceed-4d1d-9ce2-9e8da5aec815.jpg)
 
 
 # About Us
