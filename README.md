@@ -7,7 +7,7 @@ AZURE LINK :https://happy-glacier-0edbf2400.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: https://swetha22p.github.io/Frt-prjct/
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/swetha22p/Frt-prjct
