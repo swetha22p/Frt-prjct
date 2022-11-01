@@ -5,8 +5,6 @@ Future Ready Talent - Memorial Books
 
 AZURE LINK :https://happy-glacier-0edbf2400.2.azurestaticapps.net
 
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
-
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
 PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
@@ -66,7 +64,8 @@ as our solution we made a webpage that where we kept few books and their cloud l
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+- ![azr cap](https://user-images.githubusercontent.com/94050914/199311962-e11715f8-73c9-43b7-bbef-fb0eea7b5b77.jpg)
+
 
 
 - Github Runtime Actions
