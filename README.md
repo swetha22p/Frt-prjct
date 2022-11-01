@@ -7,10 +7,10 @@ AZURE LINK :https://happy-glacier-0edbf2400.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://swetha22p.github.io/Frt-prjct/
+PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/swetha22p/Frt-prjct
 
 
 
@@ -69,27 +69,24 @@ as our solution we made a webpage that where we kept few books and their cloud l
 
 
 - Github Runtime Actions
--
+
+-![swetha github act](https://user-images.githubusercontent.com/94050914/199313443-8c4b3326-6600-46b9-9c93-bd5f38f5f5ce.jpg)
+
 
 # Project WorkFlow
 
 ![swetha wrkflow capt](https://user-images.githubusercontent.com/94050914/199312426-c9db1ceb-9b08-4779-be97-2b9335fa1e60.jpg)
 
-
- 
-
-
-# Compatibility
- -  It Contains Great UI for Both Mobile and Desktop
- 
- -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
 
 ![swetha pc cap](https://user-images.githubusercontent.com/94050914/199312535-07a54293-b371-49a5-b572-bbb1940298cc.jpg)
 
 ![swetha mob cap](https://user-images.githubusercontent.com/94050914/199312562-9fdc4106-ceed-4d1d-9ce2-9e8da5aec815.jpg)
-
+# Compatibility
+ -  It Contains Great UI for Both Mobile and Desktop
+ 
+ -  Easy to Navigate in Both Mobile and Deaktop
 
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
