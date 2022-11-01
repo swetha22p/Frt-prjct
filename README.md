@@ -3,7 +3,16 @@ Future Ready Talent - Memorial Books
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK :https://happy-glacier-0edbf2400.2.azurestaticapps.net
+
+AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+
+YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+
+PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+
+
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
 
 
 
@@ -70,18 +79,15 @@ as our solution we made a webpage that where we kept few books and their cloud l
  
 
 
-
- 
-# Screenshot
-
-![swetha pc cap](https://user-images.githubusercontent.com/94050914/199311273-2ca0bc9f-55c6-4a8f-9a58-a178001d9b56.jpg)
-![swetha mob cap](https://user-images.githubusercontent.com/94050914/199311311-fdfd10f2-e7ff-4b1a-89e7-d7b93b5a59d4.jpg)
-
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
  
  -  Easy to Navigate in Both Mobile and Deaktop
  
+# Screenshot
+![pc cap](https://user-images.githubusercontent.com/110035582/197511434-dfb6eaf9-c80c-4394-999f-176908ee8bd0.png)
+
+
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
 
