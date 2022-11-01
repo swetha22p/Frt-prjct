@@ -29,6 +29,45 @@ as our solution we made a webpage that where we kept few books and their cloud l
 -  Css
 
 -  Js
+  GitHub Tools
+
+-  Azure Static Web Apps
+
+# Compatibility
+ -  It Contains Great UI for Both Mobile and Desktop
+ 
+ -  Easy to Navigate in Both Mobile and Deaktop
+
+# Deployment in Azure
+
+-  Search for Static Web Apps Service Which is used for static web pages
+
+-  Start to Create Static Web App
+
+-  Select Subscription, Create Resource Group 
+
+-  Filled the Details of App informarion and Deployed Using through GitHub
+
+-  Reviwed and Cross Checked everything and Started to Deploy 
+
+-  After Deploying Resource Group, Checked and run CI/CD in github actions 
+
+-  Finally Deployed my Static Web App.
+
+# Deployment  Screenshots
+
+- Azure Environment
+- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+
+
+- Github Runtime Actions
+- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+# Project WorkFlow
+
+![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+
+ 
 
 
 # Compatibility
