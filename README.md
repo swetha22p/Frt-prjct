@@ -5,7 +5,7 @@ Future Ready Talent - Memorial Books
 
 AZURE LINK :https://happy-glacier-0edbf2400.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/qmwgTjL6d74
 
 PROJECT DEMO URL: https://swetha22p.github.io/Frt-prjct/
 
